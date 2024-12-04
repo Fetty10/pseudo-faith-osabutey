@@ -87,12 +87,6 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 576px) {
-  .text-align {
-    text-align: center !important;
-  }
-  .padding {
-    padding: 20px 150px;
-  }
   h1 {
     font-size: 48px;
   }
@@ -102,5 +96,11 @@ p {
   .email-link {
     font-size: 25px;
     margin-bottom: 100px;
+  }
+  .text-align {
+    text-align: center !important;
+  }
+  .padding {
+    padding: 20px 150px;
   }
 }
